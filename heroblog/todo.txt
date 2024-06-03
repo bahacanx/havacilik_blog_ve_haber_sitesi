@@ -1,0 +1,7 @@
+                                                    1 - Anasayfada görünen blogların descriptionlarının karakter sayısını kısıtlıycaz
+                                                    2 - Blog ekleme sayfasında başlık ve metni zorunlu kılacaz
+                                                    3 - Blog ekleme sayfasında başlık ve metin boş geçilince uyarı vericek
+                                                    4 - Kullanıcı giriş yapınca kendi bloglarını görebileceği ve 
+    düzenleyebileceği bir sayfa olacak
+5 - Tarih güncel olarak kaydedilecek
+6 - Blog düzenleme ve silme özelliği eklenecek
